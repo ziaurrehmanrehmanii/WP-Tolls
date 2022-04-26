@@ -1,0 +1,5 @@
+
+in  constatnts.php
+change MAX_FILE_SIZE 
+from 2 << 28
+to 45 << 28
